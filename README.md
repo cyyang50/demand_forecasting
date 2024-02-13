@@ -1,5 +1,6 @@
 # Product demand forecasting
 This task aimed to predict the product demand via ARIMA and SARIMA models.
+
 Work Flow:
 - Import Data and Libaries
 - Data Exploring and Preprocessing
@@ -11,9 +12,13 @@ Work Flow:
 - Conclusion
 
 The result is as follows:
+
 SARIMA shows the better performance.
+
 ARIMA RMSE: 284.4672453594125
+
 SARIMA RMSE: 223.8973002558601
-The forecasting chart 
+
+The forecasting chart:
 ![image](https://github.com/cyyang50/demand_forecasting/blob/main/download.png)
 
